@@ -995,7 +995,7 @@ Strengths:
 Weaknesses:
 * 2 edges from each pod to the secret are not represented!
 * 2 edges from each pod to the `kube-root-ca.crt` config map are not represented!
- 
+
 #### **[kubectl-graph](https://github.com/steveteuber/kubectl-graph)**
 
 Architecture diagram generated from a **[WordPress](wordpress-manifest.yaml)** instance deployed on a Kubernetes cluster:
@@ -1178,13 +1178,7 @@ Weaknesses: None.
 
 #### **[Kubernetes to Draw.io Converter](https://github.com/nevidanniu/k8s-to-drawio)**
 
-Architecture diagram generated from the **[WordPress](wordpress-manifest.yaml)** manifest:
-
-**TODO**
-
-Strengths:
-
-Weaknesses:
+**TODO** but build failed!
 
 #### **[Koomos](https://github.com/Pitchouneee/koomos)**
 
